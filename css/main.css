@@ -1,0 +1,68 @@
+*{
+    font-family: Arial;
+
+}
+
+nav {
+    background-color: lightsteelblue;
+    height: 50px;
+}
+nav a:hover{
+    color: white;
+    background-color: darkslateblue;
+}
+footer{
+    background-color: lightsteelblue;
+    text-align: center;
+}
+
+.pic{
+    width: 100%;
+}
+#main_block p{
+    text-align: justify;
+    font-family: 'Courgette', cursive;
+}
+a{
+    font-family: 'Courgette', cursive;
+   font-size: 25px;
+    margin-left: 30px;
+}
+
+main {
+    /*background: url("../img/pizza0.jpg") no-repeat;*/
+   /*background-size: 100%;*/
+    /*opacity: 0.2;*/
+}
+#feedback{
+    background-image: url("../img/pizza-pie-cartoon-cartoon-pizza-slice-53bb9cea06779.jpg");
+    background-repeat: repeat;
+    background-size: 100px;
+}
+
+form{
+    width: 280px;
+    height: 210px;
+    background-color: beige;
+ margin-left: 40%;
+    margin-top: 10%;
+    padding-top: 10px;
+    padding-left: 50px;
+    border-radius: 10%;
+}
+#knopka{
+    width: 100px;
+    height: 30px;
+}
+#contacts{
+    background-color: darkorange;
+}
+#contacts p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 22px;
+}
+#news{
+    text-align: justify;
+    background-color: azure;
+    line-height: 2;
+}
