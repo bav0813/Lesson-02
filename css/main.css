@@ -55,7 +55,7 @@ form{
     height: 30px;
 }
 #contacts{
-    background-color: darkorange;
+    background-color: mintcream;
 }
 #contacts p{
     font-family: 'Dancing Script', cursive;
@@ -66,3 +66,11 @@ form{
     background-color: azure;
     line-height: 2;
 }
+.cont{
+    height: 570px;
+}
+
+.cont1{
+    height: 230px;
+}
+
